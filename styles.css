@@ -1,0 +1,51 @@
+body{
+  background-color:rgb(230,230,230);
+  font-family: Georgia;  
+  font-size:40px;
+}
+
+.nav{
+   background-color:rgb(50,50,60);
+   height:80px;
+   width:100%;
+   position:fixed;
+   left:0px;
+   top:0px;
+  
+  
+}
+
+.nav a{
+  color:white;
+  text-decoration:none;
+  text-align:left;
+  font-size:50px;
+  position:fixed;
+  left:10px;
+  top:15px;
+  
+  
+}
+li{
+  display:block;
+}
+
+p{
+  position:absolute;
+  top:70px;
+  right:70px;
+  left:70px;
+}
+
+.menu{
+  position:fixed;
+  right:10px;
+  top:10px;
+  width:60px;
+  height:50px;
+  
+}
+
+
+
+
